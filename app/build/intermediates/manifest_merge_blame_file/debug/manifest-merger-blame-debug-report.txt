@@ -1,0 +1,237 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.dogpaw"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:9:5-79
+15-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:9:22-76
+16
+17    <!-- Include required permissions for Google Maps API to run. -->
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+20
+21    <uses-feature
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+22        android:glEsVersion="0x00020000"
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+23        android:required="true" />
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+24
+25    <application
+25-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:11:5-66:19
+26        android:allowBackup="true"
+26-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:12:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.3.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\be663d4cb9c1d9b79bbb3e5a33a9ff08\core-1.3.0\AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:icon="@mipmap/ic_launcher"
+29-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:13:9-43
+30        android:label="@string/app_name"
+30-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:14:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:15:9-54
+32        android:supportsRtl="true"
+32-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:16:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:17:9-40
+35
+36        <!--
+37             The API key for Google Maps-based APIs is defined as a string resource.
+38             (See the file "res/values/google_maps_api.xml").
+39             Note that the API key is linked to the encryption key used to sign the APK.
+40             You need a different API key for each encryption key, including the release key that is used to
+41             sign the APK for publishing.
+42             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+43        -->
+44        <meta-data
+44-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:28:9-30:55
+45            android:name="com.google.android.geo.API_KEY"
+45-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:29:13-58
+46            android:value="@string/google_maps_key" />
+46-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:30:13-52
+47        <meta-data
+47-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:31:9-33:57
+48            android:name="preloaded_fonts"
+48-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:32:13-43
+49            android:resource="@array/preloaded_fonts" />
+49-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:33:13-54
+50
+51        <activity android:name="com.example.dogpaw.splash1" >
+51-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:35:9-42:20
+51-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:35:19-42
+52            <intent-filter>
+52-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:36:13-41:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:37:17-69
+53-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:37:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:40:17-77
+55-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:40:27-74
+56            </intent-filter>
+57        </activity>
+58        <activity android:name="com.example.dogpaw.Payment2" />
+58-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:43:9-46
+58-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:43:19-43
+59        <activity android:name="com.example.dogpaw.MainActivity" />
+59-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:44:9-59
+59-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:44:19-47
+60        <activity android:name="com.example.dogpaw.ExtendPhotography" />
+60-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:45:9-55
+60-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:45:19-52
+61        <activity android:name="com.example.dogpaw.PhotographyBooking" />
+61-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:46:9-56
+61-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:46:19-53
+62        <activity android:name="com.example.dogpaw.Payment" />
+62-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:47:9-45
+62-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:47:19-42
+63        <activity android:name="com.example.dogpaw.Photography_second" />
+63-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:48:9-56
+63-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:48:19-53
+64        <activity
+64-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:49:9-51:66
+65            android:name="com.example.dogpaw.DriversMapActivity"
+65-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:50:13-47
+66            android:label="@string/title_activity_drivers_map" />
+66-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:51:13-63
+67        <activity
+67-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:52:9-54:68
+68            android:name="com.example.dogpaw.CustomersMapActivity"
+68-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:53:13-49
+69            android:label="@string/title_activity_customers_map" />
+69-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:54:13-65
+70        <activity android:name="com.example.dogpaw.SettingsActivity" />
+70-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:55:9-54
+70-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:55:19-51
+71        <activity android:name="com.example.dogpaw.DriverLoginRegisterActivity" />
+71-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:56:9-65
+71-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:56:19-62
+72        <activity android:name="com.example.dogpaw.CustomerLoginRegisterActivity" />
+72-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:57:9-67
+72-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:57:19-64
+73        <activity android:name="com.example.dogpaw.WelcomeActivity" />
+73-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:58:9-53
+73-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:58:19-50
+74        <activity android:name="com.example.dogpaw.MA5" />
+74-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:59:9-41
+74-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:59:19-38
+75        <activity android:name="com.example.dogpaw.MA1" />
+75-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:60:9-41
+75-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:60:19-38
+76        <activity android:name="com.example.dogpaw.MA6" />
+76-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:61:9-41
+76-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:61:19-38
+77        <activity android:name="com.example.dogpaw.RequestActivity" />
+77-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:62:9-53
+77-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:62:19-50
+78        <activity android:name="com.example.dogpaw.DetailsActivity" />
+78-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:63:9-53
+78-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:63:19-50
+79        <activity android:name="com.example.dogpaw.QuoteActivity" />
+79-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:64:9-51
+79-->F:\SLIIT\2nd yr 2nd sem\MAD\MAD-project-DogPaw-master\app\src\main\AndroidManifest.xml:64:19-48
+80
+81        <!-- Needs to be explicitly declared on P+ -->
+82        <uses-library
+82-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+83            android:name="org.apache.http.legacy"
+83-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+84            android:required="false" />
+84-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\20c77c3286ed68db6c45d651dc5a413c\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+85
+86        <provider
+86-->[com.squareup.picasso:picasso:2.71828] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\8c30a66e73f7d0a7837a08ddf107590e\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+87            android:name="com.squareup.picasso.PicassoProvider"
+87-->[com.squareup.picasso:picasso:2.71828] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\8c30a66e73f7d0a7837a08ddf107590e\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+88            android:authorities="com.example.dogpaw.com.squareup.picasso"
+88-->[com.squareup.picasso:picasso:2.71828] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\8c30a66e73f7d0a7837a08ddf107590e\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+89            android:exported="false" />
+89-->[com.squareup.picasso:picasso:2.71828] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\8c30a66e73f7d0a7837a08ddf107590e\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+90
+91        <activity
+91-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:24:9-31:50
+92            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+92-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:25:13-85
+93            android:excludeFromRecents="true"
+93-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:26:13-46
+94            android:exported="true"
+94-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:27:13-36
+95            android:launchMode="singleTask"
+95-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:28:13-44
+96            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+96-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:29:13-102
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:30:13-72
+98
+99        <service
+99-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:33:9-39:19
+100            android:name="com.google.firebase.components.ComponentDiscoveryService"
+100-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:34:13-84
+101            android:exported="false" >
+101-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:35:13-37
+102            <meta-data
+102-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:36:13-38:85
+103                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+103-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:37:17-109
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\dee8ec8922da88d3591e9ab406946bce\jetified-firebase-auth-19.0.0\AndroidManifest.xml:38:17-82
+105            <meta-data
+105-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\586d4a444d3f3b915923afc58bc6cfa3\jetified-firebase-database-19.0.0\AndroidManifest.xml:32:13-34:85
+106                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+106-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\586d4a444d3f3b915923afc58bc6cfa3\jetified-firebase-database-19.0.0\AndroidManifest.xml:33:17-109
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.firebase:firebase-database:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\586d4a444d3f3b915923afc58bc6cfa3\jetified-firebase-database-19.0.0\AndroidManifest.xml:34:17-82
+108            <meta-data
+108-->[com.google.firebase:firebase-storage:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\2484b1dcdec53d6c09e44bbb7613209b\jetified-firebase-storage-19.0.0\AndroidManifest.xml:33:13-35:85
+109                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+109-->[com.google.firebase:firebase-storage:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\2484b1dcdec53d6c09e44bbb7613209b\jetified-firebase-storage-19.0.0\AndroidManifest.xml:34:17-107
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-storage:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\2484b1dcdec53d6c09e44bbb7613209b\jetified-firebase-storage-19.0.0\AndroidManifest.xml:35:17-82
+111        </service>
+112
+113        <activity
+113-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+114            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+114-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+115            android:exported="false"
+115-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+116-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\d92a27efcac738b4f280b9ad0c07bda7\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+117
+118        <provider
+118-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\e3aea1a6326b84ae06faf4a3dd5abbcd\jetified-firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+119            android:name="com.google.firebase.provider.FirebaseInitProvider"
+119-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\e3aea1a6326b84ae06faf4a3dd5abbcd\jetified-firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+120            android:authorities="com.example.dogpaw.firebaseinitprovider"
+120-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\e3aea1a6326b84ae06faf4a3dd5abbcd\jetified-firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+121            android:exported="false"
+121-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\e3aea1a6326b84ae06faf4a3dd5abbcd\jetified-firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+122            android:initOrder="100" />
+122-->[com.google.firebase:firebase-common:19.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\e3aea1a6326b84ae06faf4a3dd5abbcd\jetified-firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+123
+124        <meta-data
+124-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\c03ff831f337462821d0a5c03495569e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+125            android:name="com.google.android.gms.version"
+125-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\c03ff831f337462821d0a5c03495569e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+126            android:value="@integer/google_play_services_version" />
+126-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Buddhi\.gradle\caches\transforms-2\files-2.1\c03ff831f337462821d0a5c03495569e\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+127    </application>
+128
+129</manifest>

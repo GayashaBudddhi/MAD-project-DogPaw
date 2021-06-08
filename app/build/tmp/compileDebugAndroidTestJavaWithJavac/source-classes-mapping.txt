@@ -1,0 +1,18 @@
+com/example/dogpaw/ExampleInstrumentedTest.java
+ com.example.dogpaw.ExampleInstrumentedTest
+com/example/dogpaw/test/BuildConfig.java
+ com.example.dogpaw.test.BuildConfig
+com/example/dogpaw/it19950600/MA5Test.java
+ com.example.dogpaw.it19950600.MA5Test
+com/example/dogpaw/it19950600/MA6Test.java
+ com.example.dogpaw.it19950600.MA6Test
+com/example/dogpaw/it19308316/PhotographyExtendingTesing.java
+ com.example.dogpaw.it19308316.PhotographyExtendingTesing
+com/example/dogpaw/it19061580/DetailsActivityTest.java
+ com.example.dogpaw.it19061580.DetailsActivityTest
+com/example/dogpaw/it19061580/RequestActivityTest.java
+ com.example.dogpaw.it19061580.RequestActivityTest
+com/example/dogpaw/it19105376/welcomeactivitytest1.java
+ com.example.dogpaw.it19105376.welcomeactivitytest1
+com/example/dogpaw/it19105376/DriverloginregactTest.java
+ com.example.dogpaw.it19105376.DriverloginregactTest

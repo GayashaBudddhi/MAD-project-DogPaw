@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_payment_back.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\payment_back.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_orders.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\orders.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_extend_photography.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_extend_photography.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profile.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\profile.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\login.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_vpn_lock_24.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\ic_baseline_vpn_lock_24.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photography.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\photography.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_driver.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\driver.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splasher1.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\splasher1.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_acme.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\acme.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\alegreya.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog_and_family.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\dog_and_family.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya_bold.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\alegreya_bold.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\border.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_gfs_didot.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\gfs_didot.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment_wp.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\payment_wp.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quote.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_quote.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_amethysta.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\amethysta.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide1.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\slide1.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_sreen.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_splash_sreen.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splasher1.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\splasher1.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_login.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\login.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customers_map.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_customers_map.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_customerlogin.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\customerlogin.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twit1.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\twit1.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_login_register.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_driver_login_register.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pawlogo.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\pawlogo.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photography_booking.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_photography_booking.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save_edited_info.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\save_edited_info.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photography_second.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_photography_second.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_m_a1.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_m_a1.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orders.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\orders.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_header.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\nav_header.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dw1.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\dw1.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment_back.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\payment_back.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_studio.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\studio.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_m_a6.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_m_a6.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_studio_dog.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\studio_dog.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_design.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pawlogo.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\pawlogo.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splasher_screen.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_splasher_screen.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawermenu.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\menu\\drawermenu.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dog1.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\dog1.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_request.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_request.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_studio_dog.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\studio_dog.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drivers_map.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_drivers_map.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_chela_one.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\chela_one.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog_takecare.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\dog_takecare.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment2.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_payment2.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dog2.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\dog2.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_halant.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\halant.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contactus.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\contactus.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_login_register.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_customer_login_register.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_car.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_form_header.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable-v24\\form_header.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_m_a5.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\layout\\activity_m_a5.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\font_antic.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\font\\antic.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_form_header.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\form_header.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_faceook.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\faceook.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog_outside.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\dog_outside.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_driverlogin.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\driverlogin.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_layout_bg.xml.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\title_layout_bg.xml"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog_taxi.jpg.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\dog_taxi.jpg"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SLIIT\\2nd yr 2nd sem\\MAD\\MAD-project-DogPaw-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]
